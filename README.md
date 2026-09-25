@@ -1,4 +1,5 @@
 # TryHackMe Roadmap 2026: Free Rooms vs Premium Rooms (Beginner to Professional)
+🌐 [বাংলায় পড়ুন](README.bn.md)
 
 > A complete, step-by-step **TryHackMe learning path** that separates **free rooms** from **premium (subscription-only) rooms** at every stage — so you can go from absolute beginner to job-ready penetration tester or SOC analyst without hitting a paywall halfway through a path.
 
